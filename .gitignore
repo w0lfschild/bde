@@ -1,5 +1,5 @@
 # Build and Object Folders
-bin/
+bin/Release/bde.exe
 obj/
 
 #User Specific Files
